@@ -15,10 +15,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "corfu"
-  gem.homepage = "http://github.com/edmundhighcock/corfu"
+  gem.homepage = "http://github.com/corfu/corfu"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{CodeRunner Fusion Optimisation Framework}
+  gem.description = %Q{A framework which allows the optimisation of the performance of magnetically confined fusion devices.}
   gem.email = "edmundhighcock@users.sourceforge.net"
   gem.authors = ["edmundhighcock"]
   # dependencies defined in Gemfile
