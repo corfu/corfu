@@ -1,6 +1,15 @@
-= corfu
+CoRFu
+=====
 
-Description goes here.
+
+CoRFu is a framework for optimising the performance of magnetically confined fusion experiments.
+CoRFu is portable and can be installed on most modern HPC systems.
+The CoRFu package itself contains the optimisation driver, but is otherwise a thin wrapper
+around the rest of the framework, most importantly CodeRunner and Trinity.
+
+This page is currently under construction. CoRFu is fully operational, but not yet 
+packaged and released.  
+
 
 == Contributing to corfu
  
